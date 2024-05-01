@@ -40,30 +40,41 @@
     font-size: 24px;
     font-weight: 500;
 }
-.about-skills{
+
+
+.about-section {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start; /* Align items at the top */
+}
+
+/* .about-skills, .about-tools {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
-.about-skill{
+
+.about-skill, .about-tool {
     display: flex;
-    gap: 50px;
     align-items: center;
     transition: 0.3s;
 }
-.about-skill p{
+
+.about-skill p, .about-tool p {
     min-width: 150px;
     font-size: 24px;
     font-weight: 500;
 }
-.about-skill hr{
+
+.about-skill hr, .about-tool hr {
     outline: none;
     border: none;
-    width: 50%;
+    width: 50px; /* Adjust width of hr as desired 
     height: 8px;
     border-radius: 50px;
     background: linear-gradient(264deg, #df8908 -5.09%, #b415ff 106.28%);
-}
+} */
+
 .about-achievements{
     display: flex;
     width: 100%;

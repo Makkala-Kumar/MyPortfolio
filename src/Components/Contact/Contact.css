@@ -103,6 +103,9 @@
     transform: scale(1.1);
     transition: 0.3s; 
 }
+.contact-detail img {
+    width: 30px; 
+}
 
 @media(max-width: 768px){
     .contact{
@@ -148,5 +151,8 @@
     .contact-submit{
         font-size: 20px;
         padding: 15px 40px;
+    }
+    .contact-detail img {
+        width: 25px;
     }
 }

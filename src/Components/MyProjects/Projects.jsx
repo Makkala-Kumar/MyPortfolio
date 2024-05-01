@@ -13,10 +13,13 @@ const Projects = () => {
         <img src={theme_pattern} alt="theme_pattern" />
       </div>
       <div className="project-container">
-        {mywork_data.map((work,index) =>{
-            return <img key={index} src={work.w_img} alt="images" />
-        })}
+        {mywork_data.map((work, index) => (
+          <a key={index} href={work.w_link} target="_blank" rel="noopener noreferrer">
+            <img src={work.w_img} alt="images" />
+          </a>
+        ))}
       </div>
+
       <div className="project-showmore">
         <p>Show More</p>
         <img src={arrow_icon} alt="arrow_icon" />
