@@ -13,11 +13,21 @@ const Services = () => {
       </div>
       <div className="services-container">
         {Services_Data.map((service,index)=> {
-            return <div key={index} className="services-format">
-                <h3>{service.s_no}</h3>
-                <h2><a href={service.s_link} target="_blank" rel="noopener noreferrer">{service.s_name}</a></h2>
-                <p>{service.s_desc}</p>
-            </div>
+            return (
+              <a
+                key={index}
+                href={service.s_link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="services-format"
+              >
+                <div>
+                  <h3>{service.s_no}</h3>
+                  <h2>{service.s_name}</h2>
+                  <p>{service.s_desc}</p>
+                </div>
+              </a>
+            );
         })}
       </div>
     </div>

@@ -37,6 +37,47 @@
     gap: 40px;
     margin-bottom: 80px;
 }
+.services-container a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding: 60px;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: 0.4s;
+    cursor: pointer;
+    text-decoration: none; /* Remove underline for links */
+    color: #d4d4dd; /* Text color */
+  }
+  
+  .services-container a:hover {
+    border-color: #e67e22; 
+    background-image: linear-gradient(45deg, #d35400, #e67e22); 
+    transform: scale(1.05);
+    transition: border-color 0.4s, background-image 0.4s, transform 0.4s; 
+  }
+  
+  .services-container a h3 {
+    font-size: 28px;
+    font-weight: 600;
+  }
+  
+  .services-container a h2 {
+    font-size: 38px;
+    font-weight: 800;
+    background: linear-gradient(270deg, #df8908 50%, #b414ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .services-container a p {
+    font-size: 24px;
+    line-height: 40px;
+    max-width: 300px;
+  }
+  
 .services-format h3{
     font-size: 28px;
     font-weight: 600;
@@ -102,4 +143,17 @@
         grid-template-columns: 1fr ;
         gap: 30px;
     }
+    .services-container a {
+        padding: 32px;
+      }
+    
+      .services-container a h2 {
+        font-size: 28px;
+      }
+    
+      .services-container a p {
+        font-size: 18px;
+        line-height: 32px;
+        max-width: 300px;
+      }
 }

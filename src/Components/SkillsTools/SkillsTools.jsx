@@ -13,7 +13,9 @@ const SkillsTools = () => {
                 <div className="skills-tool">
                     <h1>SKILLS</h1>
                     <p><ul>
-                        <li>Communication</li>
+                        <li>Data Analysis</li>
+                        <li>Data Visualization</li>
+                        <li>Advanced Excel</li>
                         <li>Problem-solving</li>
                         <li>Story Telling</li>
                     </ul></p>
@@ -22,9 +24,13 @@ const SkillsTools = () => {
                 <div className="skills-tool">
                     <h1>TOOLS</h1>
                     <p><ul>
-                        <li>Excel</li>
-                        <li>SQL</li>
+                        <li>Excel, Google Sheets</li>
+                        <li>MySQL, Microsoft SQL</li>
                         <li>Tableau</li>
+                        <li>Power BI</li>
+                        <li>Python</li>
+                        <li>HTML, CSS, JS</li>
+                        <li>React JS</li>
                     </ul></p>
                 </div>
                 <hr/>
