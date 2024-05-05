@@ -21,7 +21,7 @@ const Services_Data = [
         s_no: "04",
         s_name: "Team Project",
         s_desc: "My contribution towards a team project...",
-        s_link: "https://github.com/Makkala-Kumar/ScreenTime" 
+        s_link: "https://github.com/Makkala-Kumar/Tollgate-Management-Project" 
     },
 ];
 
