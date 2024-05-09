@@ -15,7 +15,7 @@ const Services_Data = [
         s_no: "03",
         s_name: "LinkedIn",
         s_desc: "All my skills, educational details, professional career can be found here...",
-        s_link: "https://www.linkedin.com/in/makkala-kumar-438698264/"
+        s_link: "https://www.linkedin.com/in/kumar-makkala-438698264/"
     },
     {
         s_no: "04",
