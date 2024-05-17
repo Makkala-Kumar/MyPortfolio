@@ -25,7 +25,7 @@ const About = () => {
       <div className="about-achievements">
         <div className="about-achievement">
           <h1>1+</h1>
-          <p>YEAR EXPERIENCE ON DATA ANALYSIS</p>
+          <p> YEAR OF EXPERIENCE IN DATA ANALYSIS THROUGH PROJECTS AND COURSEWORK</p>
         </div>
         <hr />
         <div className="about-achievement">
