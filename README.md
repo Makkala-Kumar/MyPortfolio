@@ -1,6 +1,7 @@
 # My Portfolio
 
-Welcome to My Portfolio! This website showcases my projects, skills, services, and provides various ways to connect with me.
+Welcome to My Portfolio! This website showcases my projects, skills, services, and provides various ways to connect with me.![Screenshot 2024-05-11 204955](https://github.com/Makkala-Kumar/MyPortfolio/assets/136322019/79176426-43b5-487b-9622-6bdbc872633a)
+
 
 ## About Me
 
