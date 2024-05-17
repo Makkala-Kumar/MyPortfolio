@@ -12,9 +12,7 @@ I am a passionate in Data Analytics with expertise in various Analytical skills.
 Here are some of the projects featured on my portfolio:
 
 To be added
-<!-- - [Project 1](link-to-project1): Brief description of Project 1.
-- [Project 2](link-to-project2): Brief description of Project 2.
-- [Project 3](link-to-project3): Brief description of Project 3. -->
+![image](https://github.com/Makkala-Kumar/MyPortfolio/assets/136322019/36bf242a-db38-4085-ac9d-dd5e7eed9d14)
 
 ## Skills
 
