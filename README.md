@@ -14,14 +14,33 @@ Here are some of the projects featured on my portfolio:
 To be added
 ![image](https://github.com/Makkala-Kumar/MyPortfolio/assets/136322019/36bf242a-db38-4085-ac9d-dd5e7eed9d14)
 
+Sure, here's a formatted version of your skills for a README file:
+
 ## Skills
 
 Some of my key skills include:
 
-- Spreadsheets
-- SQL
-- Tableau
-- more....
+- **Technical Skills:**
+  - Python and Machine Learning
+  - SQL/MySQL/Microsoft SQL
+  - Excel/Google Sheets
+
+- **Soft Skills:**
+  - Communication
+  - Problem-Solving
+  - Storytelling
+  - Presentation
+  - Critical Thinking
+
+- **Tools:**
+  - Tableau
+  - Power BI
+
+- **Other:**
+  - Advanced Excel
+  - Data Analysis
+  - Data Visualization
+  - Data Cleaning and Preprocessing
 
 ## Services
 
