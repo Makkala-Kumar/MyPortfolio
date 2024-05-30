@@ -51,9 +51,14 @@
     border: 2px solid #fff;
     cursor: pointer;
 }
+.hero-resume a {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit color from parent */
+}
 .hero-resume:hover{
     border-color: #b415ff;
 }
+
 
 @media(max-width:768px){
     .hero img{
