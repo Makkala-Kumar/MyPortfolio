@@ -1,6 +1,7 @@
 # My Portfolio
 
-Welcome to My Portfolio! This website showcases my projects, skills, services, and provides various ways to connect with me.
+Welcome to My Portfolio! This website showcases my projects, skills, services, and provides various ways to connect with me.![Screenshot 2024-05-11 204955](https://github.com/Makkala-Kumar/MyPortfolio/assets/136322019/79176426-43b5-487b-9622-6bdbc872633a)
+
 
 ## About Me
 
@@ -11,18 +12,35 @@ I am a passionate in Data Analytics with expertise in various Analytical skills.
 Here are some of the projects featured on my portfolio:
 
 To be added
-<!-- - [Project 1](link-to-project1): Brief description of Project 1.
-- [Project 2](link-to-project2): Brief description of Project 2.
-- [Project 3](link-to-project3): Brief description of Project 3. -->
+![image](https://github.com/Makkala-Kumar/MyPortfolio/assets/136322019/36bf242a-db38-4085-ac9d-dd5e7eed9d14)
+
+Sure, here's a formatted version of your skills for a README file:
 
 ## Skills
 
 Some of my key skills include:
 
-- Spreadsheets
-- SQL
-- Tableau
-- more....
+- **Technical Skills:**
+  - Python and Machine Learning
+  - SQL/MySQL/Microsoft SQL
+  - Excel/Google Sheets
+
+- **Soft Skills:**
+  - Communication
+  - Problem-Solving
+  - Storytelling
+  - Presentation
+  - Critical Thinking
+
+- **Tools:**
+  - Tableau
+  - Power BI
+
+- **Other:**
+  - Advanced Excel
+  - Data Analysis
+  - Data Visualization
+  - Data Cleaning and Preprocessing
 
 ## Services
 
