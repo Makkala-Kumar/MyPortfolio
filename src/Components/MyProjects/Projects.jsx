@@ -17,7 +17,7 @@ const Projects = () => {
           <a key={index} href={work.w_link} target="_blank" rel="noopener noreferrer">
             <img src={work.w_img} alt="images" />
           </a>
-        ))}
+        ))} 
       </div>
 
       <div className="project-showmore">
