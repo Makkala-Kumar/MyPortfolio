@@ -9,7 +9,7 @@ const Services_Data = [
         s_no: "02",
         s_name: "Instagram",
         s_desc: "Professional content related to Data Analysis and Cloud Computing to my followers...",
-        s_link: "https://www.instagram.com/hemanth_analytics_and_compute/"
+        s_link: "https://www.instagram.com/hemanth_tech_universe/"
     },
     {
         s_no: "03",
@@ -21,7 +21,7 @@ const Services_Data = [
         s_no: "04",
         s_name: "Team Project",
         s_desc: "My contribution towards a team project...",
-        s_link: "https://github.com/Makkala-Kumar/Tollgate-Management-Project" 
+        s_link: "https://github.com/Makkala-Kumar/MovieNexus" 
     },
 ];
 
